@@ -5,4 +5,4 @@
 ### Файлы
 
 
-![Image alt](https://github.com/osadchii-serj/bridge/raw/main/bridge/svg/bridge.svg)
+![Image alt](https://github.com/osadchii-serj/bridge/raw/main/svg/bridge.svg)
